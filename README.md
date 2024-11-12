@@ -1,1 +1,1 @@
-# edhec-portfolio-construction
+# EDHEC Portfolio Analysis Coursera Course Walkthrough
